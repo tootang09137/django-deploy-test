@@ -29,7 +29,6 @@ ALLOWED_HOSTS = [
     ".ap-northeast-2.compute.amazonaws.com"
 ]
 
-
 # Application definition
 
 INSTALLED_APPS = [
